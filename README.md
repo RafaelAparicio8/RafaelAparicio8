@@ -47,13 +47,31 @@ requirements and align with business goals.</p>
 <p>A prediction app for the UEFA Euro 2024 developed in Java. It includes CRUD functionalities and a REST API. <a href="https://youtu.be/Wm0rx-MBwZM">Watch the demo video!</a></p>
 
 
-<!-- GitHub stats section -->
-<h2>My GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelAparicio8&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAparicio8&layout=compact&theme=radical" alt="Most Used Languages">
+<!-- Technologies I Use -->
+
+<h2 align="center">Technologies I Use</h2>
+<p align="center">
+  <a href="https://www.oracle.com/java/">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
+  </a>
 </p>
 
 <!-- Footer with a contact message -->
