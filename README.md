@@ -20,11 +20,17 @@ requirements and align with business goals.</p>
 <!-- Social media links -->
 <h3>Find me on:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/rafael-aparicio-/">
+  <a href="https://www.linkedin.com/in/rafael-aparicio8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/RafaelAparicio8">
     <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:rafael.aparicio8@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" alt="Gmail">
+  </a>
+  <a href="https://www.youtube.com/@rafaelaparicio7936">
+    <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube" alt="YouTube">
   </a>
 </p>
 
