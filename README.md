@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!-- Header with a brief introduction -->
-<h1 align="center">I'm Rafael Aparicio! 👋</h1>
+## Hi there 👋<h1 align="center">I'm Rafael Aparicio! </h1>
 <h2 align="center">Java Developer </h2>
 
 
