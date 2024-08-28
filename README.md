@@ -1,6 +1,8 @@
 <h1 align="center">Hi there! I'm Rafael Aparicio👋 </h1>
 <h2 align="center">Java Developer </h2>
 
+
+
 <!-- About me section -->
 <h2>About Me</h2>
 <p>I'm a <strong>Fullstack</strong> developer specialized in <strong>JAVA</strong>. I love working on projects that challenge my skills and allow me to learn new things.</p>
@@ -25,6 +27,9 @@ requirements and align with business goals.</p>
     <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube" alt="YouTube">
   </a>
 </p>
+
+
+ 
 
 <h2>Technologies I Use</h2>
 <p>
@@ -51,15 +56,15 @@ requirements and align with business goals.</p>
   </a>
 </p>
 
+
 <!-- Featured projects section -->
 <h2>Featured Projects</h2>
 
 <!-- EuroPorra Project -->
 <h3>EuroPorra 2024</h3>
 <p>
-  <a href="https://youtu.be/Wm0rx-MBwZM">
-    <img src="https://img.youtube.com/vi/Wm0rx-MBwZM/0.jpg" alt="EuroPorra" style="width:400px; position:relative;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/YouTube_play_button_%282013%29.svg/1280px-YouTube_play_button_%282013%29.svg.png" alt="Play Button" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); width:100px; height:100px;" />
+  <a href="https://github.com/RafaelAparicio8/EuroPorra">
+    <img src="https://img.youtube.com/vi/Wm0rx-MBwZM/0.jpg" alt="EuroPorra" style="width:400px;">
   </a>
 </p>
 <p>This is a brief demonstration of the web application I’ve developed, focused on sports result predictions. Designed for Euro 2024 (and adaptable to any tournament), this app allows users to forecast match results and accumulate points based on real outcomes, updated by an administrator.
@@ -70,7 +75,7 @@ Frontend: Developed with Html5, CSS3 & JavaScript for an intuitive and responsiv
 Backend: Developed with Java, managing game logic and user authentication.
 Database: Utilizes MySQL for efficient storage and management of user and result data.
 Real-Time Updates: Match results are dynamically updated through an admin panel, reflecting in user rankings.
-🎯 Objective: This app was designed with a focus on scalability and user experience, offering a comprehensive solution from architecture to final implementation. <a href="https://youtu.be/Wm0rx-MBwZM">Watch the demo video!</a></p>
+🎯 Objective: This app was designed with a focus on scalability and user experience, offering a comprehensive solution from architecture to final implementation.. <a href="https://youtu.be/Wm0rx-MBwZM">Watch the demo video!</a></p>
 
 <!-- GitHub stats section -->
 <h2>My GitHub Stats</h2>
@@ -80,7 +85,6 @@ Real-Time Updates: Match results are dynamically updated through an admin panel,
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAparicio8&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
-
 <!-- Footer with a contact message -->
 <h3>Thanks for visiting my profile!</h3>
 <p>Feel free to <a href="mailto:rafael.aparicio8@example.com">contact me</a> if you have any questions or collaboration proposals.</p>
