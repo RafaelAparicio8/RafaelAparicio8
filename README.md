@@ -74,9 +74,9 @@ requirements and align with business goals.</p>
 
 🛠️ Key Features:
 
-Frontend: Developed with [technologies used, e.g., React, Angular] for an intuitive and responsive user interface.
-Backend: Server implementation with [technologies used, e.g., Node.js, Django], managing game logic and user authentication.
-Database: Utilizes [database, e.g., MongoDB, PostgreSQL] for efficient storage and management of user and result data.
+Frontend: Developed with Html5, CSS3 & JavaScript for an intuitive and responsive user interface.
+Backend: Developed with Java, managing game logic and user authentication.
+Database: Utilizes MySQL for efficient storage and management of user and result data.
 Real-Time Updates: Match results are dynamically updated through an admin panel, reflecting in user rankings.
 🎯 Objective: This app was designed with a focus on scalability and user experience, offering a comprehensive solution from architecture to final implementation.. <a href="https://youtu.be/Wm0rx-MBwZM">Watch the demo video!</a></p>
 
