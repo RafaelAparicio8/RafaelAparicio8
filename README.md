@@ -49,31 +49,34 @@ requirements and align with business goals.</p>
 
 <!-- Technologies I Use -->
 
-<h2 align="center">Technologies I Use</h2>
+
 <p align="center">
+  <!-- Java -->
   <a href="https://www.oracle.com/java/">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40">
   </a>
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40">
   </a>
+  <!-- MySQL -->
   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40">
   </a>
+  <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40">
   </a>
+  <!-- CSS3 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40">
   </a>
+  <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow" alt="Python">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40">
   </a>
+  <!-- AWS -->
   <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=orange" alt="AWS">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" height="40">
   </a>
 </p>
-
-<!-- Footer with a contact message -->
-<h3>Thanks for visiting my profile!</h3>
-<p>Feel free to <a href="mailto:rafaelaparicio.glez@gmail.com">contact me</a> if you have any questions or collaboration proposals.</p>
