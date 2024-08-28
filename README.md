@@ -32,7 +32,7 @@ requirements and align with business goals.</p>
 </p>
 
 
-## Technologies I Use
+ 
 
 <h2>Technologies I Use</h2>
 <p>
