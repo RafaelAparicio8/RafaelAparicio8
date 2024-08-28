@@ -67,10 +67,10 @@ requirements and align with business goals.</p>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow" alt="Python">
   </a>
   <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=orange" alt="AWS">
   </a>
 </p>
 
