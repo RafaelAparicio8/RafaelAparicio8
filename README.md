@@ -64,7 +64,7 @@ requirements and align with business goals.</p>
 <h3>EuroPorra 2024</h3>
 <p>
   <a href="https://github.com/RafaelAparicio8/EuroPorra">
-    <img src="https://img.youtube.com/vi/Wm0rx-MBwZM/0.jpg" alt="EuroPorra" style="width:400px;">
+    <img src="C:\Users\pedya070-006\Downloads\youtu" alt="EuroPorra" style="width:400px;">
   </a>
 </p>
 <p>This is a brief demonstration of the web application I’ve developed, focused on sports result predictions. Designed for Euro 2024 (and adaptable to any tournament), this app allows users to forecast match results and accumulate points based on real outcomes, updated by an administrator.
