@@ -37,8 +37,8 @@ requirements and align with business goals.</p>
 
 ## Technologies I Use
 
-<h2 align="center">Technologies I Use</h2>
-<p align="center">
+<h2>Technologies I Use</h2>
+<p>
   <a href="https://www.oracle.com/java/">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
   </a>
