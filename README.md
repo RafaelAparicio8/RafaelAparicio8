@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Header with a brief introduction -->
-<h1 align="center">Hi, I'm Rafael Aparicio! 👋</h1>
+<h1 align="center">I'm Rafael Aparicio! 👋</h1>
 <h3 align="center">Java Developer with a passion for web applications and technology</h3>
 
 <!-- Header image -->
@@ -12,7 +12,10 @@
 <!-- About me section -->
 <h2>About Me</h2>
 <p>I'm a <strong>Fullstack</strong> developer specialized in <strong>JAVA</strong>. I love working on projects that challenge my skills and allow me to learn new things.</p>
-<p>Currently, I'm focused on improving my skills in <strong>Full Stack Development</strong> and <strong>Microservices Architecture</strong>.</p>
+<p>Guiding my career towards software development, my goal is to leverage my experience in
+procurement and purchasing and merge it with programming. My ability to understand client needs
+supports my commitment to delivering high-quality technological solutions that meet user
+requirements and align with business goals.</p>
 
 <!-- Social media links -->
 <h3>Find me on:</h3>
