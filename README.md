@@ -4,10 +4,7 @@
 <h1 align="center">I'm Rafael Aparicio! 👋</h1>
 <h2 align="center">Java Developer </h2>
 
-<!-- Header image -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/XXXXX/header-image.png" alt="header" />
-</p>
+
 
 <!-- About me section -->
 <h2>About Me</h2>
