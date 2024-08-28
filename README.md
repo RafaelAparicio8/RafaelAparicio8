@@ -27,7 +27,7 @@ requirements and align with business goals.</p>
     <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" alt="GitHub">
   </a>
   <a href="mailto:rafael.aparicio8@example.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" alt="Gmail">
   </a>
   <a href="https://www.youtube.com/@rafaelaparicio7936">
     <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube" alt="YouTube">
