@@ -70,7 +70,15 @@ requirements and align with business goals.</p>
     <img src="https://img.youtube.com/vi/Wm0rx-MBwZM/0.jpg" alt="EuroPorra" style="width:400px;">
   </a>
 </p>
-<p>A prediction app for the UEFA Euro 2024 developed in Java. It includes CRUD functionalities and a REST API. <a href="https://youtu.be/Wm0rx-MBwZM">Watch the demo video!</a></p>
+<p>This is a brief demonstration of the web application I’ve developed, focused on sports result predictions. Designed for Euro 2024 (and adaptable to any tournament), this app allows users to forecast match results and accumulate points based on real outcomes, updated by an administrator.
+
+🛠️ Key Features:
+
+Frontend: Developed with [technologies used, e.g., React, Angular] for an intuitive and responsive user interface.
+Backend: Server implementation with [technologies used, e.g., Node.js, Django], managing game logic and user authentication.
+Database: Utilizes [database, e.g., MongoDB, PostgreSQL] for efficient storage and management of user and result data.
+Real-Time Updates: Match results are dynamically updated through an admin panel, reflecting in user rankings.
+🎯 Objective: This app was designed with a focus on scalability and user experience, offering a comprehensive solution from architecture to final implementation.. <a href="https://youtu.be/Wm0rx-MBwZM">Watch the demo video!</a></p>
 
 <!-- GitHub stats section -->
 <h2>My GitHub Stats</h2>
