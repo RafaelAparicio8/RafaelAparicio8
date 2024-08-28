@@ -11,7 +11,7 @@
 
 <!-- Sección sobre mí -->
 <h2>Sobre mí</h2>
-<p>Soy un desarrollador con experiencia en <strong>Java</strong>, <strong>Spring Boot</strong>, y <strong>APIs REST</strong>. Me encanta trabajar en proyectos que desafíen mis habilidades y me permitan aprender cosas nuevas.</p>
+<p>Soy desarrollador en <strong>Fullstack</strong>, especializado en <strong>JAVA</strong>. Me encanta trabajar en proyectos que desafíen mis habilidades y me permitan aprender cosas nuevas.</p>
 <p>Actualmente estoy enfocado en mejorar mis habilidades en <strong>Desarrollo Full Stack</strong> y <strong>Arquitectura de Microservicios</strong>.</p>
 
 <!-- Enlaces a redes sociales -->
