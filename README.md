@@ -4,10 +4,7 @@
 <!-- About me section -->
 <h2>About Me</h2>
 <p>I'm a <strong>Fullstack</strong> developer specialized in <strong>JAVA</strong>. I love working on projects that challenge my skills and allow me to learn new things.</p>
-<p>Guiding my career towards software development, my goal is to leverage my experience in
-procurement and purchasing and merge it with programming. My ability to understand client needs
-supports my commitment to delivering high-quality technological solutions that meet user
-requirements and align with business goals.</p>
+<p>Guiding my career towards software development, my goal is to leverage my experience in procurement and purchasing and merge it with programming. My ability to understand client needs supports my commitment to delivering high-quality technological solutions that meet user requirements and align with business goals.</p>
 
 <!-- Social media links -->
 <h3>Find me on:</h3>
@@ -57,8 +54,8 @@ requirements and align with business goals.</p>
 <!-- EuroPorra Project -->
 <h3>EuroPorra 2024</h3>
 <p>
-  <a href="https://youtu.be/Wm0rx-MBwZM">
-    <img src="[https://github.com/RafaelAparicio8/EuroPorra/blob/main/youtu.png]" alt="EuroPorra" style="width:400px; position:relative;" />
+  <a href="https://youtu.be/Wm0rx-MBwZM" style="position:relative; display:inline-block;">
+    <img src="https://github.com/RafaelAparicio8/EuroPorra/blob/main/youtu.png" alt="EuroPorra" style="width:400px; display:block;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/YouTube_play_button_%282013%29.svg/1280px-YouTube_play_button_%282013%29.svg.png" alt="Play Video" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); width:100px; height:100px;" />
   </a>
 </p>
