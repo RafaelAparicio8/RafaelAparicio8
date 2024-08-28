@@ -58,7 +58,7 @@ requirements and align with business goals.</p>
 <h3>EuroPorra 2024</h3>
 <p>
   <a href="https://youtu.be/Wm0rx-MBwZM">
-    <img src="https://github.com/RafaelAparicio8/EuroPorra/blob/main/youtu.png" alt="EuroPorra" style="width:400px; position:relative;" />
+    <img src="[https://github.com/RafaelAparicio8/EuroPorra/blob/main/youtu.png](https://github.com/RafaelAparicio8/EuroPorra/blob/main/youtu.png)" alt="EuroPorra" style="width:400px; position:relative;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/YouTube_play_button_%282013%29.svg/1280px-YouTube_play_button_%282013%29.svg.png" alt="Play Button" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); width:100px; height:100px;" />
   </a>
 </p>
