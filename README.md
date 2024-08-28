@@ -34,18 +34,6 @@ requirements and align with business goals.</p>
   </a>
 </p>
 
-<!-- Featured projects section -->
-<h2>Featured Projects</h2>
-
-<!-- EuroPorra Project -->
-<h3>EuroPorra 2024</h3>
-<p>
-  <a href="https://github.com/RafaelAparicio8/EuroPorra">
-    <img src="https://img.youtube.com/vi/Wm0rx-MBwZM/0.jpg" alt="EuroPorra" style="width:400px;">
-  </a>
-</p>
-<p>A prediction app for the UEFA Euro 2024 developed in Java. It includes CRUD functionalities and a REST API. <a href="https://youtu.be/Wm0rx-MBwZM">Watch the demo video!</a></p>
-
 
 ## Technologies I Use
 
@@ -73,3 +61,28 @@ requirements and align with business goals.</p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
   </a>
 </p>
+
+
+<!-- Featured projects section -->
+<h2>Featured Projects</h2>
+
+<!-- EuroPorra Project -->
+<h3>EuroPorra 2024</h3>
+<p>
+  <a href="https://github.com/RafaelAparicio8/EuroPorra">
+    <img src="https://img.youtube.com/vi/Wm0rx-MBwZM/0.jpg" alt="EuroPorra" style="width:400px;">
+  </a>
+</p>
+<p>A prediction app for the UEFA Euro 2024 developed in Java. It includes CRUD functionalities and a REST API. <a href="https://youtu.be/Wm0rx-MBwZM">Watch the demo video!</a></p>
+
+<!-- GitHub stats section -->
+<h2>My GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelAparicio8&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAparicio8&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+<!-- Footer with a contact message -->
+<h3>Thanks for visiting my profile!</h3>
+<p>Feel free to <a href="mailto:rafael.aparicio8@example.com">contact me</a> if you have any questions or collaboration proposals.</p>
