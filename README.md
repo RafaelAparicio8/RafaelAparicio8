@@ -50,7 +50,6 @@
 
 <!-- Featured projects section -->
 <h2>Featured Projects</h2>
-
 <!-- EuroPorra Project -->
 <h3>EuroPorra 2024</h3>
 <p>
